@@ -1,0 +1,8 @@
+{
+  "networkPath": "https://ropsten.infura.io/",
+  "networkToken": "YOUR_NETWORK_TOKEN",
+  "contractAddress": "YOUR_TOKEN_CONTRACT_ADDRESS",
+  "testAddress": "YOUR_TOKEN_WALLET_TEST_ADDRESS",
+  "tokenSymbol": "YOUR_TOKEN_SYMBOL",
+  "tokenDecimal": 18
+}
